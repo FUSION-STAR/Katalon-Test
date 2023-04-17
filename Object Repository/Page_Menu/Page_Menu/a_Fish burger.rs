@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fish burger</name>
+   <tag></tag>
+   <elementGuidId>3e4fe829-6ca6-4351-b416-1d74f0312676</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[4]/div/div[2]/div[3]/div/div/div/div[2]/h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ce7b7f4-0ab2-4f2b-b66e-d55517056ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>fish-burger</value>
+      <webElementGuid>0c55986d-ef9c-4119-938e-b01faac6cdc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fish burger</value>
+      <webElementGuid>67db642b-c023-4011-bbbc-0edbc5fd3e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;content-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-sm-6&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;new-arrival-product&quot;]/div[@class=&quot;new-arrival-content text-center mt-3&quot;]/h4[@class=&quot;mb-1&quot;]/a[1]</value>
+      <webElementGuid>af66110b-0407-4277-9217-fc900c5e301c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[4]/div/div[2]/div[3]/div/div/div/div[2]/h4/a</value>
+      <webElementGuid>01169a97-6a96-4300-b937-11847d5178ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fish burger')]</value>
+      <webElementGuid>dae51aa7-af4f-48c2-aecc-fc217cf9ef15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soft drink'])[1]/following::a[1]</value>
+      <webElementGuid>6ef15569-e7c3-4fd5-8353-7a33e5a75358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fried Chicken'])[1]/following::a[2]</value>
+      <webElementGuid>ec960eb2-cb8d-45d2-8cea-703dfe299823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pepperoni pizza'])[1]/preceding::a[1]</value>
+      <webElementGuid>7567468c-a269-44ec-83f4-bcd7cbb7d6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donut'])[1]/preceding::a[2]</value>
+      <webElementGuid>5119e3b1-7dd4-4a8f-a5ed-b1366bd16952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'fish-burger')])[7]</value>
+      <webElementGuid>1df4534f-28e6-460b-90bf-8f271cd43d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/h4/a</value>
+      <webElementGuid>7f39390b-f5fb-4d86-8b23-f3441c974312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'fish-burger' and (text() = 'Fish burger' or . = 'Fish burger')]</value>
+      <webElementGuid>d72c166d-a2da-4d88-89ca-1c655c5468ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

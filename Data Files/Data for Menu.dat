@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Data for Menu</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a29d2d28-e296-483b-99f9-33e994e4acb2</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>http%3A%2F%2F44.213.10.165%3A8080%2Ffried-chicken Fried+Chicken 50%E0%B8%BF</data>
+   <data>http%3A%2F%2F44.213.10.165%3A8080%2Fsoft-drink Soft+drink 20%E0%B8%BF</data>
+   <data>http%3A%2F%2F44.213.10.165%3A8080%2Ffish-burger Fish+burger 60%E0%B8%BF</data>
+   <data>http%3A%2F%2F44.213.10.165%3A8080%2Fpepperoni-pizza Pepperoni+pizza 40%E0%B8%BF</data>
+   <data>http%3A%2F%2F44.213.10.165%3A8080%2Fdonut Donut 30%E0%B8%BF</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>url</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>name</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>price</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

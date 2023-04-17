@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pepperoni pizza</name>
+   <tag></tag>
+   <elementGuidId>50e27253-b5e1-49a8-b0aa-250dfbf56855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[4]/div/div[2]/div[4]/div/div/div/div[2]/h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e9fb20ba-3459-4f3e-ae52-620d45fc8ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>pepperoni-pizza</value>
+      <webElementGuid>5cfcdda9-7c0a-47fa-b9f9-502c73b6a683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pepperoni pizza</value>
+      <webElementGuid>625352f0-8f96-4657-8d4f-3017d25dcf07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;content-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-sm-6&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;new-arrival-product&quot;]/div[@class=&quot;new-arrival-content text-center mt-3&quot;]/h4[@class=&quot;mb-1&quot;]/a[1]</value>
+      <webElementGuid>552e8d9b-f4fd-4a08-9f8d-f488077f2461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[4]/div/div[2]/div[4]/div/div/div/div[2]/h4/a</value>
+      <webElementGuid>d7c28c83-5668-4b0d-9a79-7602b2eccf5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pepperoni pizza')]</value>
+      <webElementGuid>6bfa4f37-8e0f-4e61-ad9a-cb63bb3bd648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fish burger'])[7]/following::a[1]</value>
+      <webElementGuid>9ff34b3c-7bdd-45ad-bae1-62a7988b0f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soft drink'])[1]/following::a[2]</value>
+      <webElementGuid>582c29b6-51b5-4230-b38c-2fb022d10c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donut'])[1]/preceding::a[1]</value>
+      <webElementGuid>9fa80fc1-f1b9-44e3-b14c-35efd9befc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pepperoni pizza']/parent::*</value>
+      <webElementGuid>b214eb14-20e1-463c-8961-3417b91ed3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'pepperoni-pizza')]</value>
+      <webElementGuid>f987eed6-ac8e-4429-8b8e-009870bda735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/h4/a</value>
+      <webElementGuid>46240c57-5aba-4c7d-8207-2daf7bfe4a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'pepperoni-pizza' and (text() = 'Pepperoni pizza' or . = 'Pepperoni pizza')]</value>
+      <webElementGuid>9dc3331a-3635-48af-a234-e89ed2919c2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

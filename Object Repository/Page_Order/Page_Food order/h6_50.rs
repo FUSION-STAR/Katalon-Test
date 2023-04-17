@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_50</name>
+   <tag></tag>
+   <elementGuidId>ee71fc99-c259-4443-a8a2-1137bd359860</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[4]/div/div/div/div/div[3]/div/div/div[4]/div[2]/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>f2092c83-07e3-4e2c-a064-9974fc2c5c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary mb-0 ms-auto</value>
+      <webElementGuid>09c1f123-6251-4f2d-9135-f8a1313e74d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50฿</value>
+      <webElementGuid>a65d03c4-28e5-4c3d-ba4b-5dc4a9b8a177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;content-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-xxl-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-4 col-sm-6 sp15&quot;]/div[@class=&quot;card h-auto b-hover&quot;]/div[@class=&quot;card-body px-3&quot;]/div[@class=&quot;order-menu&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/h6[@class=&quot;text-primary mb-0 ms-auto&quot;]</value>
+      <webElementGuid>3d76133e-8d8f-485a-8191-2c81a7e06b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[4]/div/div/div/div/div[3]/div/div/div[4]/div[2]/h6</value>
+      <webElementGuid>afa66976-1471-4d89-a3ad-1bfcd077d104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fried Chicken'])[1]/following::h6[1]</value>
+      <webElementGuid>93e0efdf-2133-40df-a22c-c62072e19e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pepperoni pizza'])[2]/following::h6[3]</value>
+      <webElementGuid>0fad2579-9a42-4cd7-be61-316a2ee1be56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[3]/preceding::h6[1]</value>
+      <webElementGuid>4bc1d9b7-042f-41f4-8d8a-78cbeedaba7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Queue'])[1]/preceding::h6[1]</value>
+      <webElementGuid>21d446bd-75b4-41ba-b42d-f860915ac1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='50฿']/parent::*</value>
+      <webElementGuid>18b572a7-d011-4f6b-a864-4f4f6afc001f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/div[2]/h6</value>
+      <webElementGuid>93da29cd-8ddb-4adf-9f35-462ce30e0d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = '50฿' or . = '50฿')]</value>
+      <webElementGuid>ca5f3ea6-fbcc-44ea-9c75-cecc69f7b6ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
